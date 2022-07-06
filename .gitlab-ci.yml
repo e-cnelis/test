@@ -5,3 +5,4 @@ my_job:
   stage: test
   script:
     - echo "hello"
+    - echo hello2
